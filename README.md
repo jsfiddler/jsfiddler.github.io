@@ -1,4 +1,4 @@
-# jsfiddler.github.io meine Website
+# meine Website
 Hello World! 
 ## Unterüberschrift
 
